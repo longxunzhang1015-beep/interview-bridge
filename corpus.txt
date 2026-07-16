@@ -1,0 +1,256 @@
+# ============================================================
+# 面试语料库 — 把你准备过的面试材料放在这里
+# ============================================================
+#
+# LLM 会在翻译和生成回答建议时自动参考这些内容。
+# 格式完全自由，可以写：
+#
+# 1. 常见面试问题 + 你准备的回答要点
+# 2. 你的个人背景、经历、技能（供 LLM 个性化回答）
+# 3. 行业/职位相关术语的中德对照
+# 4. 任何你觉得对面试有帮助的上下文
+#
+# 例子：
+#
+# Q: Was sind Ihre größten Stärken?
+# 我的回答要点: Teamfähigkeit, 5 Jahre Erfahrung in Projektmanagement,
+#   kommunikationsstark, belastbar unter Druck
+#
+# Q: Warum möchten Sie bei uns arbeiten?
+# 我的回答要点: 对公司产品的认可, 行业前景, 个人成长空间
+#
+# 职位: Softwareentwickler (软件开发工程师)
+# 行业: Automobilindustrie (汽车行业)
+# 我的背景: 3年Java开发经验, 熟悉Spring Boot, 德语B2水平
+#
+# ============================================================
+
+Hauptsächlich auf Deutsch, gerne. Falls es bei sehr fachlichen Details hilfreich ist, kann ich dann kurz auf Englisch wechseln?
+Darf ich diese Frage bitte auf Englisch beantworten？
+Ja, gerne. Um sicherzustellen, dass ich alle Fachbegriffe korrekt verwende, darf ich das auf Englisch tun?
+Kit informatik 面试
+1.自我介绍/请介绍你的本科背景Machen Sie bitte eine Selbstvorstellung / Erzählen Sie bitte von Ihrem Bachelor-Hintergrund.
+Ich heiße Zhang Dongqi, bin 21 Jahre alt und komme aus China. Ich habe meinen Abschluss an der Beijing Language and Culture University gemacht, mit dem Hauptfach Infomatik und Technik. Meine Hauptfächern sind Computer-Netzwerke, Datenstruktur, Rechnerorganisation und -prinzipien usw. Ich bewerbe mich für das Infomatik-Programm am KIT.
+
+(My name is Zhang Dongqi. I am 21 years old and from China. I graduated from Beijing Language and Culture University, majoring in Computer Science and Technology. My main courses included Computer Networks, Data Structures, Computer Organization and Principles, among others. I am applying for the Infomatik program at KIT.)
+
+
+动机与背景
+2.为什么选择 KIT？Warum haben Sie sich für eine Bewerbung am KIT entschieden? Was ist Ihre Motivation?
+首先KIT是TU9之一，这在全世界都是很有名的。另外KIT的infomatik这个硕士项目的选课有很大的自由度，并且以研究为导向进行教学，有助于我未来博士的学习打下基础。我对infomatik的补充科目中的商业管理很感兴趣，因为我计划在博士期间研究企业管理和可持续发展方向。
+Erstens ist das KIT eine der TU9-Universitäten. Das ist weltweit sehr bekannt. Außerdem hat der Master-Studiengang Informatik am KIT viel Freiheit bei der Kursauswahl. Der Unterricht ist forschungsorientiert. Das hilft, eine Grundlage für mein zukünftiges Promotionsstudium zu schaffen. Ich interessiere mich sehr für Betriebswirtschaftslehre in den Informatik-Ergänzungsfächern. Ich plane, während meiner Promotion Unternehmensführung und nachhaltige Entwicklung zu erforschen.
+（First, KIT is one of the TU9 universities. This is very famous worldwide. Also, the master’s program in Informatics at KIT has a lot of freedom in course selection. It is taught in a research-oriented way. This helps build a foundation for my future PhD studies. I am very interested in Business Administration among the Informatics supplementary subjects. I plan to study corporate management and sustainable development during my PhD.）
+因为当今很多企业会忽视可持续发展与环境保护，我想结合我所学的知识改善这一问题。
+Denn viele Unternehmen vernachlässigen heute Nachhaltigkeit und Umweltschutz. Ich möchte mein Wissen nutzen, um dieses Problem zu verbessern.
+(Because many companies today overlook sustainability and environmental protection. I want to use my knowledge to improve this issue.)
+
+3.KIT 在 Informatik 领域的优势是什么？Was sind die Stärken des KIT im Bereich Informatik?/What are the strengths of KIT in the field of Computer Science?
+
+Infomatik是KIT的强势专业Informatik ist ein starkes Fachgebiet am KIT./Computer Science is a strong field at KIT.
+自由度高，以研究为导向
+我对infomatik的补充科目中的商业管理很感兴趣，因为我计划在博士期间研究企业管理和可持续发展方向。
+
+
+4.你为什么不申请其他相关专业？而是 Informatik？Warum bewerben Sie sich nicht für andere verwandte Fächer, sondern für Informatik?
+因为课程匹配度比较符合，我本科的专业是计算机科学与技术
+Weil die Kursübereinstimmung gut passt. Mein Bachelor-Studiengang war Informatik.
+(Because the course match is good. My bachelor's major was Computer Science. )
+
+5.你为什么觉得自己适合这个专业？/你觉得你是个好的候选人吗？Warum glauben Sie, dass Sie für dieses Programm geeignet sind? / Sehen Sie sich selbst als starken Kandidaten?
+首先，我本科学习了数据结构，计算机网络，计算机组成原理。编译原理等计算机核心基础课程，有良好的基础
+Erstens habe ich im Bachelor-Grundkurse wie Datenstrukturen, Computernetze, Rechnerarchitektur und Compilerbau studiert. Dadurch habe ich eine solide Basis.
+其次，我有Infomatik相关的项目经验，有讲理论转化为实践的能力
+Zweitens besitze ich Projekterfahrung in Informatik. Ich kann theoretisches Wissen in die Praxis umsetzen.
+另外，我对这个专业有兴趣。所以我认为自己是一个好的候选人。
+Außerdem habe ich großes Interesse an diesem Fachgebiet. Deshalb bin ich der Überzeugung, dass ich eine gute Kandidatin bin.
+
+
+6.哪些课程与 Informatik 最相关？Welche Kurse sind für Informatik am relevantesten?
+数据结构
+数据库原理与应用
+计算机网络
+计算机组成原理
+操作系统
+软件工程
+项目
+
+7.哪门课最难？你学到了什么？Welches Fach war am schwierigsten? Was haben Sie dabei gelernt?
+
+8.是否有课程你觉得学得不好？Gibt es Kurse, bei denen Sie das Gefühl haben, nicht gut gelernt zu haben?
+计算机网络
+
+高频问题：
+数据结构/tcs 基本必考 其他计组/操作系统/网络/数电
+数学基础比如 线性代数的特征值分析 ，编程基础，计算机理论比如图灵机，冒泡排序等等
+数据结构： 比如问你常见排序算法，要回答得出复杂度； 基础数学知识， 比如线性代数， 问你向量空间定义； 然后一些其他可能的基础知识
+1.数组 vs 链表的区别
+存储方式不同：数组--连续内存空间 链表--非连续内存，通过指针连接节点
+大小灵活性：数组--大小固定（静态数组），或需整体复制扩容（动态数组）。链表--动态			增删节点，无需预先确定大小。
+访问效率：数组--支持随机访问 O(1) 链表--只能顺序访问 O(n)
+
+2.栈和队列的应用场景Application Scenarios for Stacks and Queues
+栈：特点是后进先出，典型应用场景有：函数调用与递归（系统用“调用栈”保存函数的返回地址、参数和局部变量，每调用一个函数就入栈，返回时就出栈。）/ 编译器中括号匹配检查（遇到左括号入栈，遇到右括号出栈匹配）/ 深度优先搜索(DFS) -- 用栈保存待访问的节点
+Stack: Characterized by Last-In-First-Out (LIFO) behavior.
+Typical applications include:
+Function calls and recursion (systems use a “call stack” to store function return addresses, parameters, and local variables; each function call pushes onto the stack, and returns pop off the stack). / Bracket matching in compilers (push left brackets onto the stack, pop right brackets to match)/ Depth-first search (DFS) — using a stack to store nodes to be visited
+队列：特点是先进先出，典型应用场景有：广度优先搜索（BFS）-- 用队列保存待扩展的节点。/ 操作系统中的进程调度（如就绪队列）
+Queues: Characterized by First-In-First-Out (FIFO) behavior. Typical applications include:
+/ Breadth-first search (BFS) — using a queue to store nodes to be expanded. / Process scheduling in operating systems (e.g., ready queue)
+
+3.常见的排序算法/时间复杂度 O(n), O(log n) 举例Sortieralgorithmen/Zeitkomplexität
+排序算法	平均时间复杂度Average time complexity	空间复杂度	应用场景
+冒泡排序Bubble Sort	O(n2)n squared	O(1)	
+选择排序Selection Sort	O(n2)	O(1)	
+插入排序Insertion Sort	O(n2)	O(1)	小规模数据、数据基本有序
+Small-scale data, generally well-ordered
+快速排序Quick Sort	O(n log n)
+n multiplied by log n	O(log n) ~ O(n)	通用、快速
+General-purpose, fast
+归并排序Merge Sort	O(n log n)	O(n)	要求稳定且高效
+Requires stability and high efficiency
+堆排序Heap Sort	O(n log n)	O(1)	数据量大，内存紧张
+Large data volume, limited memory
+
+冒泡排序Bubble Sort：Starting from the leftmost position, continuously compare adjacent pairs of numbers. If the left number is greater than the right one, swap them.
+选择排序Selection Sort：Each time, select the smallest number from the unsorted digits and place it in its correct position at the front.
+插入排序Insertion Sort：At the beginning, there is only one number. New numbers are continuously inserted into the correct position at the front of the already sorted sequence.
+快速排序Quick Sort：Choose a number as the reference point. Place smaller numbers to the left and larger numbers to the right. Then repeat the process on both sides.
+时间复杂度O(n2)>O(n log n)>O(n+k)
+
+4.图灵机Turing Machine
+图灵机是计算机科学中最核心的思想模型，是用来定义“计算”的本质的抽象蓝图。
+The Turing machine is the most fundamental conceptual model in computer science, serving as an abstract blueprint for defining the essence of computation.
+它的工作模式是：查看当前状态，查规则表，执行动作，然后进入下一个循环
+Its operational mode is as follows: examine the current state, consult the rule table, execute an action, then proceed to the next iteration.
+图灵机的意义在于定义了“可计算”
+The significance of the Turing machine lies in its definition of “computability.”
+
+5.什么是递归？有什么风险？Recursion
+递归是指把原问题分解为更小的、相同类型的子问题
+应用场景：分治算法、斐波那契数列
+风险：栈溢出（每次递归调用都会在调用栈上创建新的栈帧，如果递归深度过大就会溢出）；重复计算（同一个子问题被多次计算）
+
+6.（快速排序 / 归并排序）区别
+
+7.口头描述算法思路（不写代码）
+
+8.什么是进程 vs 线程？
+进程是操作系统进行资源分配和调度的基本单位
+线程是进程内的独立执行单元，是CPU调度的基本单位
+
+9.内存管理的基本思想？
+内存管理的核心是在有限物理资源下，为程序提供安全、高效、透明的内存使用环境。
+其核心思想有：1.抽象与隔离2.动态分配与回收3.效率优化4.安全可靠
+
+10.死锁是什么？如何避免？What is deadlock? How can it be avoided?
+定义：一个进程集合是死锁的，如果集合中的每个进程都在等待某一事件的发生，而只有集合中的另一个进程才能导致该事件的发生。
+如何避免：银行家算法
+Definition: A set of processes is deadlocked if each process in the set is waiting for an event to occur, and only another process in the set can trigger that event.
+How to avoid: Banker's Algorithm
+
+11.用户态 / 内核态区别？
+用户态是应用程序受限的运行模式，内核态是操作系统特权的运行模式。两者的本质区别在于CPU指令和硬件资源的访问权限。
+
+12.TCP vs UDP 区别TCP vs UDP
+用户数据报协议UDP：无连接、UDP使用尽最大努力交付、UDP是面向报文的
+User Datagram Protocol (UDP): Connectionless, uses best-effort delivery, and is datagram-oriented.
+Transmission Control Protocol 
+传输控制协议TCP:TCP是面向连接的运输层协议、每一条TCP连接只能有两个端点，每一条TCP连接只能是点对点的、TCP提供可靠交付的服务
+TCP is a connection-oriented transport layer protocol. Each TCP connection can only have two endpoints, and each connection is point-to-point. TCP provides reliable delivery service.
+
+
+13.HTTP 的基本工作流程 Basic HTTP Workflow
+1. 用户输入URL/点击链接 → User enters URL/clicks link
+2. 浏览器解析URL，构造HTTP请求 → Browser parses URL and constructs HTTP request 
+3. 通过TCP连接发送请求到服务器 → Sends request to server via TCP connection 
+4. 服务器处理请求，生成响应 → Server processes request and generates response 
+5. 服务器发送HTTP响应 → Server sends HTTP response  
+6. 浏览器接收并渲染内容Browser receives and renders content
+
+14.什么是 client–server model？
+
+15.什么是关系型数据库？
+关系型数据库是基于关系模型的数据库，以表（Table）的形式组织数据，表之间通过关系（Relationship）连接，使用SQL进行数据操作。
+
+16.primary key / foreign keynormalization（范式）是什么意思？
+
+17.SQL 和 NoSQL 的基本差别
+SQL 是结构化、关系型的数据库，适合强一致性、复杂查询；NoSQL 是非结构化、分布式的数据库，适合高扩展性、灵活模式
+
+18.离散数学在计算机中的作用？
+离散数学为理解，设计和分析离散结构（例如算法，数据结构，逻辑电路）提供了数学工具和思维框架。
+例如：电路设计中门电路对应的逻辑运算/数据库中的查询语句
+
+19.什么是图（graph）？实际应用？
+图是由顶点和连接顶点的边组成的数学结构，用于表示事物之间的复杂关系。
+一个图 G 可以表示为：G = (V, E)
+V (Vertices)：顶点的集合（代表实体）
+E (Edges)：边的集合（代表关系）
+应用：路径规划，Dijkstra算法
+
+20.为什么算法分析需要数学？Why does algorithm analysis require mathematics?
+在计算机科学中，尤其是在设计关键系统，例如搜索引擎、操作系统、自动驾驶时，必须可以精确、可靠地预判一个算法：需要多少时间（时间复杂度），需要多少内存（空间复杂度），当输入数据量变得极大时，性能会如何变化？
+In computer science, particularly when designing critical systems such as search engines, operating systems, and autonomous driving, it is essential to accurately and reliably predict an algorithm's behavior: how much time it will require (time complexity), how much memory it will consume (space complexity), and how its performance will change when input data volumes become extremely large.
+
+论文 / research/Abschlussarbeit -Forschung
+1.我的毕业论文的题目是基于RAG的当代中国文化学习助手的设计和开发；
+Der Titel meiner Abschlussarbeit ist "Entwurf und Entwicklung eines Lernassistenten für zeitgenössische chinesische Kultur auf RAG-Basis".The title of my thesis is "Design and Development of a Contemporary Chinese Culture Learning Assistant Based on RAG".
+2.在毕业论文中我运用了RAG（也就是检索增强生成技术Retrieval-Augmented Generation, RAG），结合大语言模型LLMs，另外使用了LlamaIndex框架实现了对外部数据的高效管理，通过数据连接器、索引和查询接口的协作实现了与用户的交互式检索，设计了针对当代中国文化的学习助手。（摘要）In meiner Arbeit habe ich RAG (Retrieval-Augmented Generation) eingesetzt. Ich kombinierte große Sprachmodelle (LLMs) und nutzte das LlamaIndex-Framework. So konnte ich externe Daten effizient verwalten. Durch das Zusammenspiel von Datenkonnektoren, Indizes und Abfrageschnittstellen realisierte ich interaktive Abfragen mit Nutzern. Ich entwarf einen Lernassistenten mit Fokus auf zeitgenössische chinesische Kultur.
+In my thesis, I used RAG (Retrieval-Augmented Generation). I combined large language models (LLMs) and used the LlamaIndex framework. This helped manage external data efficiently. Through collaboration between data connectors, indexes, and query interfaces, I achieved interactive retrieval with users. I designed a learning assistant focused on contemporary Chinese culture.
+3.结构（列举，目录贴出来，替你选最核心的几块，因为核心的块会被追问）
+
+
+Q1:你的研究问题是什么？Was ist Ihre Forschungsfrage?
+
+Q2:方法有什么局限性？Was sind die Grenzen der Methode?
+在数据方面，数据来源比较单一，未来可以进一步扩充数据范围，纳入更多相关文献和数据。
+此外，系统的交互功能可以进一步优化，例如增加多语言支持、个性化推荐等功能。
+In Bezug auf die Daten ist die Datenquelle relativ einfach. In Zukunft kann der Datenumfang erweitert werden. Mehr relevante Literatur und Daten können einbezogen werden.
+Außerdem kann die Interaktionsfunktion des Systems weiter optimiert werden. Zum Beispiel können mehrsprachige Unterstützung und personalisierte Empfehlungen hinzugefügt werden.
+
+Q3:为什么研究这个问题/有意义？Warum forschen Sie zu diesem Problem? / Warum ist es bedeutsam?
+我选择这个研究主题主要有两方面原因。
+Ich habe dieses Forschungsthema aus zwei Hauptgründen gewählt.
+首先，我们学校有很多的外国留学生，很多学生对中国文化感兴趣，我想帮助他们了解中国文化。所以想设计和开发一个学习助手方便他们学习。
+Erstens hat unsere Universität viele internationale Studierende. Viele Studierende interessieren sich für die chinesische Kultur. Ich möchte ihnen helfen, die chinesische Kultur zu verstehen. Deshalb möchte ich einen Lernassistenten entwerfen und entwickeln, um ihnen das Lernen zu erleichtern.
+另外，国家倡导文化自信，我想弘扬当代中国文化。
+Zweitens fördert der Staat das kulturelle Selbstvertrauen. Ich möchte die zeitgenössische chinesische Kultur verbreiten.
+
+
+Q4: 为什么RAG可以预防虚假信息？Warum kann RAG Falschinformationen vorbeugen?
+传统模型的任务是根据输入，预测下一个最有可能出现的词。RAG将任务分解为两步：第一步，检索：在知识库中找到与问题相关性最强的片段。第二步，生成：基于找到的证据流畅的组织语言。
+Traditionelle Modelle haben die Aufgabe, das nächste wahrscheinlichste Wort vorherzusagen. RAG teilt die Aufgabe in zwei Schritte. Schritt eins: Abruf. Finden Sie die relevantesten Textabschnitte in der Wissensdatenbank. Schritt zwei: Erzeugung. Formulieren Sie eine flüssige Antwort basierend auf den gefundenen Beweisen.
+
+未来规划类
+1.你毕业后的计划是什么？Was ist Ihr Plan nach dem Abschluss?（）
+硕士毕业后，我想申请德国的博士项目，我对KIT的infomatik专业的补充科目中的商业管理、企业的可持续发展很感兴趣，我想将其作为我博士的研究方向。因为当今很多企业会忽视可持续发展与环境保护，我想结合我所学的知识改善这一问题。
+Nach dem Master möchte ich mich für ein Doktorandenprogramm in Deutschland bewerben. Ich interessiere mich für Betriebswirtschaftslehre und nachhaltige Unternehmensführung in den Ergänzungsfächern der Informatik am KIT. Ich möchte das zu meinem Forschungsthema für die Promotion machen. Denn viele Unternehmen vernachlässigen heute Nachhaltigkeit und Umweltschutz. Ich möchte mein Wissen nutzen, um dieses Problem zu verbessern.
+
+2.你是否考虑在德国长期发展？Haben Sie vor, langfristig in Deutschland zu bleiben?（）
+我的计划是这样的，硕士毕业后，我想申请德国的博士项目，博士毕业后我想回到中国，在北京的大学找研究员的工作。
+
+如果课程很难，你如何应对压力？If the course is challenging, how do you handle the pressure?
+1.我觉得首先应该制定学习计划，有效分配时间
+I believe the first step is to create a study plan and allocate time effectively.
+2.在开学会议上，询问学姐关于选课的建议，学习的建议。
+At the orientation meeting, seek advice from upperclassmen regarding course selection and study strategies.
+3.遇到自己不太理解的问题，先和同学讨论，必要时候通过发邮件请教教授
+When encountering concepts you don't fully grasp, discuss them with classmates first. If necessary, reach out to professors via email for clarification.
+
+
+
+实践能力
+你最熟悉的编程语言是什么？为什么？
+你用它做过什么项目？
+面向对象编程的基本思想？
+什么是 abstraction / encapsulation？
+
+项目
+你在项目中具体负责什么？
+最大的技术困难是什么？
+如果重来一次你会怎么改进？
+
+语言方面
+课程是英语授课，你是否适应？
+是否有学术英语写作经验？
+你是否计划学习德语？

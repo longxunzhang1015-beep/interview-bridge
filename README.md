@@ -33,7 +33,7 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/longxunzhang1015/interview-bridge.git
+git clone https://github.com/longxunzhang1015-beep/interview-bridge.git
 cd interview-bridge
 
 # 2. 安装依赖
